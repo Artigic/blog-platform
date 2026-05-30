@@ -166,16 +166,20 @@ http://localhost:3000
 ## 📸 Screenshots
 
 ### Home Page
-_Add screenshot here_
+<img width="1907" height="902" alt="image" src="https://github.com/user-attachments/assets/7cbbb587-4270-4faa-b7cd-21646a8b8348" />
+
 
 ### Login Page
-_Add screenshot here_
+<img width="1918" height="903" alt="image" src="https://github.com/user-attachments/assets/bd0331c2-135a-4322-a4cb-83836910e693" />
+
 
 ### Register Page
-_Add screenshot here_
+<img width="1911" height="908" alt="image" src="https://github.com/user-attachments/assets/0f97353e-8c69-4850-9b24-7d8dfdbc9f5f" />
+
 
 ### Post Details Page
-_Add screenshot here_
+<img width="1915" height="899" alt="image" src="https://github.com/user-attachments/assets/9af3deb4-6270-4ce7-8e5e-faf860045fc8" />
+
 
 ---
 
